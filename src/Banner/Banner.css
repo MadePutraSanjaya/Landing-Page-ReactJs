@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
+
+
+.section_text h4 {
+  font-family: "Kaushan Script", cursive !important;
+}
+.section_banner {
+  background-image: url("../Assets/bg-thebesttaste.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+.banner_reservation {
+  background-image: url("../Assets/bg-reservation.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+.reservation_text h3 {
+  font-family: "Kaushan Script", cursive !important;
+}

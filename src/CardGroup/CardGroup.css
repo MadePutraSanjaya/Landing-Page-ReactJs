@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+.top_special_food h1 {
+font-family: 'Kaushan Script', cursive !important;
+}
+.splide__arrow--next {
+    right: -2em !important;
+}
+.splide__arrow--prev {
+    left: -2em !important;
+}
+.splide__pagination__page.is-active {
+    background: #AD2D1D !important;
+}
+.splide__pagination__page {
+    background: #F77C7B !important;
+}

@@ -1,0 +1,19 @@
+.figure img {
+    border-radius: 100%;
+}
+.card {
+    background-image: url("../Assets/bg-menu-4s.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+.splide__pagination {
+    top: 23em;
+}
+.splide__pagination__page.is-active {
+    background: #AD2D1D !important;
+}
+.splide__pagination__page {
+    background: #F77C7B !important;
+   
+}

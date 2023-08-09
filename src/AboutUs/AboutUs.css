@@ -1,0 +1,15 @@
+.top_aboutus {
+    background-image: url("../Assets/bg-food.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;;
+}
+
+.about-left::after {
+    content: "-";
+    font-size: 50px;
+}
+.about-right::after {
+    content: "-";
+    font-size: 50px;
+}
